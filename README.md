@@ -9,6 +9,5 @@ TBD
 
 TODO:
 - Original and PC white cheddar KD with detailed water levels, butter and milk amounts, and cook times
-- Crunchy noodle salad
-- Instant pot chili
 - sausages and mixed veggies
+- 
